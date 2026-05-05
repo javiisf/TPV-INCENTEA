@@ -10,13 +10,6 @@ Servidor HTTP local para impresoras de tickets en entornos TPV. Recibe un POST c
 - .NET 10
 - Impresora ESC/POS (COM o USB/spooler)
 
----
-
-## Compilar y ejecutar
-
-```powershell
-dotnet build ServidorImpresion/ServidorImpresion.csproj
-dotnet run --project ServidorImpresion/ServidorImpresion.csproj
 ```
 
 La API key se activa manualmente desde el menú del tray. Una vez generada se puede ver o regenerar desde el mismo menú.
