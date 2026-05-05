@@ -1,0 +1,45 @@
+[{
+  "empresaData": {
+    "nombreEmpresa": "Ferretería López",
+    "cif": "B12345678",
+    "direccion": "Calle Mayor, 12",
+    "codPostal": "28001",
+    "provincia": "Madrid"
+  },
+  "ticketData": {
+    "pedido": "PED-2026-00018",
+    "fecha": "24/04/2026",
+    "fechaEntrega": "30/04/2026",
+    "proveedor": {
+      "nombre": "Distribuciones García SL",
+      "nif": "B11223344",
+      "direccion": "Pol. Ind. Norte, Nave 7",
+      "codPostal": "28080 Madrid"
+    },
+    "items": [
+      {
+        "referencia": "TOR-M8-30",
+        "descripcion": "Tornillo M8x30 inox",
+        "cantidad": 100,
+        "precioUnidad": 0.38
+      },
+      {
+        "referencia": "TAL-800W",
+        "descripcion": "Taladro percutor 800W",
+        "cantidad": 3,
+        "precioUnidad": 45.00,
+        "precioDescuento": 40.50,
+        "dtoPropio": 10
+      },
+      {
+        "descripcion": "Juego brocas titanio 19pz",
+        "cantidad": 5,
+        "precioUnidad": 9.80,
+        "precioDescuento": 7.84,
+        "dtoPropio": 20
+      }
+    ],
+    "observaciones": "Entrega en almacén principal. Avisar 24h antes. Horario: 9h-18h.",
+    "firma": true
+  }
+}]

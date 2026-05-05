@@ -1,0 +1,39 @@
+[{
+  "empresaData": {
+    "nombreEmpresa": "Ferretería López",
+    "cif": "B12345678",
+    "direccion": "Calle Mayor, 12",
+    "codPostal": "28001",
+    "provincia": "Madrid",
+    "textoLegal": "Gracias por su compra. Conserve este ticket."
+  },
+  "ticketData": {
+    "ticket": "D-2024-00011",
+    "cliente": {
+      "razon_social": "Construcciones Ruiz SL",
+      "nif": "B11223344",
+      "direccion": "Avda. de la Industria, 45",
+      "cod_postal": "28100 Madrid",
+      "regimen": "NORMAL"
+    },
+    "items": [
+      {
+        "cantidad": 1,
+        "descripcion": "Taladro percutor 800W",
+        "precio": 59.99,
+        "descuento": 10,
+        "precioDescuento": 53.99,
+        "iva": 21
+      },
+      {
+        "cantidad": 2,
+        "descripcion": "Juego brocas titanio 19pz",
+        "precio": 12.50,
+        "descuento": 0,
+        "precioDescuento": 12.50,
+        "iva": 21
+      }
+    ],
+    "total": 79.00
+  }
+}]

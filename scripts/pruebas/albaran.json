@@ -1,0 +1,43 @@
+[{
+  "empresaData": {
+    "nombreEmpresa": "Ferretería López",
+    "cif": "B12345678",
+    "direccion": "Calle Mayor, 12",
+    "codPostal": "28001",
+    "provincia": "Madrid",
+    "textoLegal": "Documento no válido como factura. Conserve este albarán."
+  },
+  "ticketData": {
+    "albaran": "ALB-2026-00042",
+    "fecha": "24/04/2026",
+    "cliente": {
+      "razonSocial": "Obras Pérez SL",
+      "nif": "B98765432",
+      "direccion": "Av. Industria, 5",
+      "codPostal": "28002 Madrid"
+    },
+    "items": [
+      {
+        "cantidad": 10,
+        "descripcion": "Tornillo M8x30 inox",
+        "precioUnidad": 0.45
+      },
+      {
+        "cantidad": 2,
+        "descripcion": "Taladro percutor 800W",
+        "precioUnidad": 59.99,
+        "precioDescuento": 53.99,
+        "dtoPropio": 10
+      },
+      {
+        "cantidad": 1,
+        "descripcion": "Juego brocas titanio 19pz",
+        "precioUnidad": 12.50,
+        "precioDescuento": 10.00,
+        "dtoPropio": 20
+      }
+    ],
+    "observaciones": "Entrega en almacén principal. Horario de recepción: 9h-18h. Traer este albarán firmado.",
+    "firma": true
+  }
+}]

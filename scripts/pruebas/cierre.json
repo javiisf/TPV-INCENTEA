@@ -1,0 +1,29 @@
+[{
+  "empresaData": {
+    "nombreEmpresa": "Ferretería López",
+    "cif": "B12345678",
+    "direccion": "Calle Mayor, 12",
+    "codPostal": "28001",
+    "provincia": "Madrid"
+  },
+  "ticketData": {
+    "usuario": "María García",
+    "totalVentaEfectivo": 312.50,
+    "totalVentaTarjeta": 540.75,
+    "totalVentaVale": 25.00,
+    "totalVentaGiro": 0.00,
+    "totalVentas": 878.25,
+    "totalAbonoEfectivo": 18.90,
+    "totalAbonoTarjeta": 0.00,
+    "totalAbonoVale": 0.00,
+    "totalAbonos": 18.90,
+    "entradaCaja": 50.00,
+    "retiradaCaja": 200.00,
+    "cierreTarjeta": 540.75,
+    "difTarjeta": 0.00,
+    "saldoInicialCaja": 150.00,
+    "saldoTeoricoCaja": 443.60,
+    "cierreMetalico": 441.00,
+    "saldoFinal": -2.60
+  }
+}]

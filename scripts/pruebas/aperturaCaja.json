@@ -1,0 +1,13 @@
+[{
+  "empresaData": {
+    "nombreEmpresa": "Ferretería López",
+    "cif": "B12345678",
+    "direccion": "Calle Mayor, 12",
+    "codPostal": "28001",
+    "provincia": "Madrid"
+  },
+  "ticketData": {
+    "usuario": "María García",
+    "cantidadApertura": 150.00
+  }
+}]
